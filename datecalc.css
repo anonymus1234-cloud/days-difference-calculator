@@ -1,0 +1,41 @@
+.a{color: blue;
+    border: 15px;
+    border-color: blue;
+    border-style: groove;
+    background-color: black;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    font-size:40px ;
+    font-family: Curlz Mt;
+    text-decoration: overline underline;
+    text-shadow: 2px 2px 2px rgb(87, 87, 231);
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/07/28/20/42/icon-1549619_1280.png);
+    background-size: 1536px 864px;
+    background-repeat: no-repeat;
+}
+
+label{
+    font-size: 30px;
+    font-style: italic bold;
+}
+form{
+    background-color:rgba(195, 237, 4, 0.63);
+    padding-bottom: 70px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 80px;
+}
+
+button{
+    color: blue;
+    font-family: Curlz MT;
+}
+
+#result{
+    color: blue;
+    text-align: center;
+}
